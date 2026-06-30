@@ -1,63 +1,103 @@
-<h1 align="center">Hi 👋, I'm Sreejith Sureshkumar</h1>
-<h3 align="center">Full Stack Developer | UI/UX Designer | B.Sc Computer Science Student</h3>
+<p align="center">
+  <img src="./file_00000000f8347206b2d55d50a3dbee56.pngpng" width="100%" alt="GitHub Banner"/>
+</p>
+
+<div align="center">
+
+# 👋 Hi, I'm Sreejith Sureshkumar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Node.js+%7C+Firebase;Always+Learning+New+Technologies" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=sreejithsureshkumar7-sketch&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 B.Sc Computer Science Student
+
+💻 Full Stack Developer
+
+🎨 UI/UX Designer
+
+🌱 Currently Learning React.js, Node.js, MongoDB
+
+📍 Chennai, India
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;UI%2FUX+Design+Enthusiast;Building+Real+World+Projects" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,java,python,cpp,git,github,figma,vscode"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 B.Sc Computer Science Student at **Madha Arts and Science College**
-- 🌱 Learning **React.js, Node.js, MongoDB, Firebase**
-- 🎨 Interested in **UI/UX Design, Figma, Web Apps**
-- 🚀 Goal: Become a **Full Stack Developer + UI/UX Designer**
-- 📫 Email: **sreejithsureshkumar7@gmail.com**
-
----
-
-## 🛠 Tech Stack
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,java,python,cpp,git,github,figma,vscode" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreejithsureshkumar7-sketch&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreejithsureshkumar7-sketch&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🚀 My Projects
-| Project | Description |
-|---|---|
-| 🎓 Attendance App | Student attendance, reports, Firebase |
-| 🤖 AI Skill Lab | Free AI learning course platform |
-| 💬 Chat App | React + Node.js + Socket.io |
-| 🏫 College Website | College updates and event details |
-| 🌐 Portfolio | Personal developer portfolio |
-
----
-
-## 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreejithsureshkumar7-sketch&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreejithsureshkumar7-sketch&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sreejithsureshkumar7-sketch&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🏆 GitHub Trophy
 
 <p align="center">
-  <a href="mailto:sreejithsureshkumar7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sreejith-sureshkumar-920667405">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=sreejithsureshkumar7-sketch&theme=tokyonight&column=4"/>
+
 </p>
 
 ---
 
-<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h3>
+# 🚀 Featured Projects
+
+⭐ Madha Attendance Pro
+
+⭐ Chat Application
+
+⭐ AI Skill Lab
+
+⭐ Portfolio Website
+
+⭐ College Website
+
+⭐ ScanDrive
+
+---
+
+# 🌐 Connect With Me
+
+📧 Email:
+**sreejithsureshkumar7@gmail.com**
+
+💼 LinkedIn:
+**https://www.linkedin.com/in/sreejith-sureshkumar-920667405**
+
+---
+
+<div align="center">
+
+### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
+
+</div>
